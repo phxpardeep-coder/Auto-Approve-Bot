@@ -3,7 +3,7 @@ from typing import List
 
 API_ID = os.environ.get("API_ID", "23231578")
 API_HASH = os.environ.get("API_HASH", "6016ef2dc043865f26667d89719b2c7e")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8388780172:AAEHmbonE1oTzo8ArUj0dhwdMP6LtYm9SHk")
 ADMIN = int(os.environ.get("ADMIN", "6960971297"))
 PICS = (os.environ.get("PICS", "")).split()
 
